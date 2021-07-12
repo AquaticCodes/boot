@@ -12,7 +12,7 @@ First Start By cloning This Repo
 
 ```bash.sh
 
-cd $HOME && git clone https//www.github.com/AquaticCodes/boot && cd boot && bash install.sh
+cd $HOME && apt-get install git && git clone https//www.github.com/AquaticCodes/boot && cd boot && bash install.sh
 ```
 </p>
 <h2>2. Check And Solve</h2>
